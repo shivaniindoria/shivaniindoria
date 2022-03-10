@@ -1,5 +1,5 @@
 
-#  <h1 align="center">Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [SHIVANI SAINI](https://www.linkedin.com/in/shivanisainiindoria)😊!!</h1>
+#  <h1 align="center">Hello, There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [SHIVANI](https://www.linkedin.com/in/shivanisainiindoria)😊!!</h1>
 <br>
 
 <a href="https://www.linkedin.com/in/shivanisainiindoria">
