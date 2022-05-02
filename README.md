@@ -1,5 +1,5 @@
 
-#  <h1 align="center">Hello, There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [SHIVANI](https://www.linkedin.com/in/shivanisainiindoria)😊!!</h1>
+#  <h1 align="center">Hello,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [SHIVANI](https://www.linkedin.com/in/shivanisainiindoria)!!</h1>
 <br>
 
 <a href="https://www.linkedin.com/in/shivanisainiindoria">
@@ -23,6 +23,6 @@
 <p align="left"> <a href="https://twitter.com/shivaniindoria" target="blank"><img src="https://img.shields.io/twitter/follow/shivaniindoria?logo=twitter&style=for-the-badge" alt="shivaniindoria" /></a> </p>
 
 ## 🎓 About me
-• Graduated from Kurukshetra university <br />
-• BCA <br />
+• Graduated from Kurukshetra University <br />
+• BCA - Bachelor of Computer Applications <br />
 • Aspiring Full-stack-DEV.
